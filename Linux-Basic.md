@@ -1,14 +1,11 @@
-# Linux-Basic
+# 📖Linux-Basic
 
 <img align = "center" alt = "Linux" hight="400" width="400" src = "https://github.com/anik-devops11/Linux/blob/main/images/Linux%20Logo.png"> </br>
 
 
-
-# Linux-Basic
-
 A foundational guide to understanding what Linux is, why it is widely used, and essential theoretical concepts that are important for Linux users.
 
-## Table of Contents
+## 📝 Table of Contents
 
 1. [Introduction to Linux](#introduction-to-linux)
    - [What is Linux Operating System?](#what-is-linux-operating-system)
@@ -25,7 +22,7 @@ A foundational guide to understanding what Linux is, why it is widely used, and 
 
 ---
 
-## Introduction to Linux
+## Introduction to Linux 🐧
 
 ### What is Linux Operating System?
 
@@ -37,7 +34,7 @@ Linux was created by Linus Torvalds in 1991 while he was a student. He aimed to 
 ### Linux vs Other Operating Systems
 Linux offers unique advantages over proprietary operating systems like Windows and macOS. Its open-source nature means it can be modified freely, and it is less prone to malware.
 
-## Why Use Linux?
+## Why Use Linux? 👀
 
 Because it is free, open-source, and extremely flexible, Linux is widely utilized. For servers and developers, it is the ideal option because it offers strong security, stability, and performance. Generally interoperable hardware, a broad software library, and a vibrant community that offers support and regular updates are the many benefits of Linux. Due to its adaptability, users can customize the operating system according to their own needs, whether they become for personal or large enterprise use.
 
@@ -49,7 +46,7 @@ Because it is free, open-source, and extremely flexible, Linux is widely utilize
 - **Community Support**: Linux has a large, active community that offers support through forums, online resources, and documentation. Users can often find help and solutions quickly.
 - **Cost-Effective**:Linux is free to use, reducing software licensing costs. This makes it an attractive option for businesses and individuals alike.
 
-## Linux Distributions (Distros)
+## Linux Distributions (Distros) 🔎
 
 ### What is a Distribution?
 A Linux distribution is an operating system composed of a collection of software built around the Linux kernel. It includes the kernel itself, along with supporting libraries and applications. Users can obtain a Linux-based operating system by downloading one of the many available distributions, which are designed for various types of devices, including embedded systems and personal computers. Currently, there are over **600 Linux distributions available**, each tailored to meet different user needs and preferences.
