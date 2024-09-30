@@ -17,9 +17,7 @@ A foundational guide to understanding what Linux is, why it is widely used, and 
    
 2. [Why Use Linux?](#why-use-linux)
    - [Advantages of Using Linux](#advantages-of-using-linux)
-   - [Open Source and Community Support](#open-source-and-community-support)
-   - [Stability and Security](#stability-and-security)
-
+   
 3. [Linux Distributions (Distros)](#linux-distributions-distros)
    - [What is a Distribution?](#what-is-a-distribution)
    - [Popular Linux Distros](#popular-linux-distros)
