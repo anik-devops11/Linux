@@ -23,33 +23,6 @@ A foundational guide to understanding what Linux is, why it is widely used, and 
    - [Popular Linux Distros](#popular-linux-distros)
    - [Choosing the Right Distro](#choosing-the-right-distro)
 
-4. [Linux Architecture](#linux-architecture)
-   - [Overview of Linux Kernel](#overview-of-linux-kernel)
-   - [Shell and User Space](#shell-and-user-space)
-   - [File System Hierarchy](#file-system-hierarchy)
-
-5. [Basic Linux Concepts](#basic-linux-concepts)
-   - [Files and Directories](#files-and-directories)
-   - [Users, Groups, and Permissions](#users-groups-and-permissions)
-   - [Processes and Services](#processes-and-services)
-
-6. [Linux Installation and Setup](#linux-installation-and-setup)
-   - [How to Install Linux](#how-to-install-linux)
-   - [Basic Setup After Installation](#basic-setup-after-installation)
-
-7. [Getting Started with the Linux Terminal](#getting-started-with-the-linux-terminal)
-   - [What is the Terminal?](#what-is-the-terminal)
-   - [Basic Terminal Navigation](#basic-terminal-navigation)
-   - [Shells](#shells)
-
-8. [Linux File System](#linux-file-system)
-   - [File System Structure](#file-system-structure)
-   - [Common Directories](#common-directories)
-
-9. [Linux Community and Resources](#linux-community-and-resources)
-   - [Forums and Support Channels](#forums-and-support-channels)
-   - [Online Tutorials and Documentation](#online-tutorials-and-documentation)
-
 ---
 
 ## Introduction to Linux
