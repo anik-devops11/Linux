@@ -1,3 +1,3 @@
 # Linux-Basic
 
-![Linux Logo](images/Linux Logo.png)
+![Linux Logo](https://github.com/anik-devops11/Linux/blob/main/images/Linux%20Logo.png)
