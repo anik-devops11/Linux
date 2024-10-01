@@ -88,6 +88,11 @@ The Linux file system is structured like a tree, starting from the root director
 
 ### Linux Directory Structure
 
+The Linux directory structure follows a hierarchical, tree-like structure that starts from the root directory, represented by /. Each directory under the root has a specific purpose, allowing users and system processes to easily locate files and resources. Here is an overview of the most common directories.
+<br>
+
+![logo](https://github.com/anik-devops11/Linux/blob/main/images/Linux%20Directory%20Structure.png)
+
 ### Understanding File Permissions
 
 ### File Types in Linux
