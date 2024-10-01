@@ -21,6 +21,10 @@ A foundational guide to understanding what Linux is, why it is widely used, and 
    - [Popular Linux Distros](#popular-linux-distros)
    - [Choosing the Right Distro](#choosing-the-right-distro)
 
+4. [Linux File System Basics](#Linux-File-System-Basics)
+   - [Linux Directory Structure](#Linux-Directory-Structure)
+   - [Understanding File Permissions](#Understanding-File-Permissions)
+   - [File Types in Linux](#File-Types-in-Linux)
 ---
 
 ## 🐧Introduction to Linux🐧
@@ -78,3 +82,10 @@ A Linux distribution is an operating system composed of a collection of software
 
 - **Deepin**: A visually stunning distribution that focuses on an elegant user experience, making it suitable for everyday computing.
 
+## Linux File System Basics
+
+### Linux Directory Structure
+
+### Understanding File Permissions
+
+### File Types in Linux
