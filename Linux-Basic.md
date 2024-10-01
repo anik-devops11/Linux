@@ -84,6 +84,8 @@ A Linux distribution is an operating system composed of a collection of software
 
 ## Linux File System Basics
 
+The Linux file system is structured like a tree, starting from the root directory `/`, which serves as the base for everything else. In Linux, all items—such as files, directories, and even hardware devices—are represented as files, making interactions with the system consistent and straightforward. Permissions are set to control who can read, write, or execute a file, and are applied to the file owner, a group, and others. Paths are used to navigate the system: an **absolute path** starts from the root (e.g., `/home/user/documents/report.txt`), while a **relative path** starts from your current directory (e.g., `./report.txt`). To access external devices like USB drives, they are "mounted" into the file system, usually in directories like `/media` or `/mnt`. This design makes Linux well-organized, efficient, and secure for both users and the system.
+
 ### Linux Directory Structure
 
 ### Understanding File Permissions
