@@ -93,7 +93,7 @@ The Linux directory structure follows a hierarchical, tree-like structure that s
 
 ![logo](https://github.com/anik-devops11/Linux/blob/main/images/Linux%20Directory%20Structure.png) <br>
 
-# Linux Directory Structure
+### Here, we provide a brief discussion of the Linux directory structure.
 
 | Directory    |    Description    |
 |--------------|:---------------------------------------------------------------------------------------------|
