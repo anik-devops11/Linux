@@ -1,2 +1,0 @@
-### History of Linux
-Linux was created by Linus Torvalds in 1991 while he was a student. He aimed to develop a free and open-source version of the MINIX operating system. Over time, it has grown with contributions from developers all around the world.
