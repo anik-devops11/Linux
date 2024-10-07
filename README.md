@@ -6,7 +6,7 @@ A foundational guide to understanding what Linux is, why it is widely used, and 
 
 ## 📝 Table of Contents
 
-1. [Introduction to Linux](Linux-Documents/01-Introduction)
+1. [Introduction to Linux](linux-documents/01-introduction)
    - [What is Linux Operating System?](Linux-Documents/01-Introduction/01-What-is-linux-operating-system.md)
 
 2. [Why Use Linux?](#why-use-linux)
