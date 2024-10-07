@@ -13,10 +13,10 @@ A foundational guide to understanding what Linux is, why it is widely used, and 
    - [Advantages of Using Linux](Linux-Documents/02-Why-Use-Linux/Advantages-of-Using-Linux.md)
 
 3. [Linux Distributions (Distros)](Linux-Documents/03-Linux-Distributions)
-   - [Linux-Distribution?](Linux-Documents/03-Linux-Distributions/Linux-Distributions.md)
+   - [Linux Distribution?](Linux-Documents/03-Linux-Distributions/Linux-Distributions.md)
 
-4. [Linux File System Basics](#Linux-File-System-Basics)
-   - [Linux Directory Structure](#Linux-Directory-Structure)
-   - [Understanding File Permissions](#Understanding-File-Permissions)
-   - [File Types in Linux](#File-Types-in-Linux)
+4. [Linux Basic Concepts](Linux-Documents/04-Linux-Basic-Concepts)
+   - [01. The Linux Kernel](Linux-Documents/04-Linux-Basic-Concepts/01-The-Linux-Kernel.md)
+   - [02. Linux File Type](Linux-Documents/04-Linux-Basic-Concepts/02-Linux-File-Types.md)
+   - [03. Linux File System Hierarchy](Linux-Documents/04-Linux-Basic-Concepts/03-LInux-File-system-Hierarchy.md)
 ---
