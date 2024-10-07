@@ -12,10 +12,8 @@ A foundational guide to understanding what Linux is, why it is widely used, and 
 2. [Why Use Linux?](Linux-Documents/02-Why-Use-Linux)
    - [Advantages of Using Linux](Linux-Documents/02-Why-Use-Linux/Advantages-of-Using-Linux.md)
 
-3. [Linux Distributions (Distros)](#linux-distributions-distros)
-   - [What is a Distribution?](#what-is-a-distribution)
-   - [Popular Linux Distros](#popular-linux-distros)
-   - [Choosing the Right Distro](#choosing-the-right-distro)
+3. [Linux Distributions (Distros)](#lLinux-Documents/03-Linux-Distributions)
+   - [Linux-Distribution?](#Linux-Documents/03-Linux-Distributions/Linux-Distributions.md)
 
 4. [Linux File System Basics](#Linux-File-System-Basics)
    - [Linux Directory Structure](#Linux-Directory-Structure)
