@@ -9,9 +9,8 @@ A foundational guide to understanding what Linux is, why it is widely used, and 
 1. [Introduction to Linux](Linux-Documents/01-Introduction)
    - [What is Linux Operating System?](Linux-Documents/01-Introduction/What-is-linux-operating-system.md)
 
-2. [Why Use Linux?](#why-use-linux)
-   - [Advantages of Using Linux](#advantages-of-using-linux)
-   - [Linux in DevOps and Cloud](#Linux-in-DevOps-and-Cloud)
+2. [Why Use Linux?](#Linux-Documents/02-Why-Use-Linux)
+   - [Advantages of Using Linux](#Linux-Documents/02-Why-Use-Linux/Advantages-of-Using-Linux.md)
 
 3. [Linux Distributions (Distros)](#linux-distributions-distros)
    - [What is a Distribution?](#what-is-a-distribution)
