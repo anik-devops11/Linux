@@ -26,4 +26,4 @@ $ file /home/anik
 $ flle City.txt
 ```
 
-<img align = "center" alt = "Linux" src = "https://github.com/anik-devops11/Linux/blob/main/images/Picture%20screenshot.png"> </br>
+<img align = "center" alt = "Linux" hight="600" width="700" src = "https://github.com/anik-devops11/Linux/blob/main/images/Picture%20screenshot.png"> </br>
