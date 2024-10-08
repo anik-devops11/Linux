@@ -5,6 +5,7 @@ There are three types of files.
 1. Regular File
 2. Directory
 3. Special Files
+
 <img align = "center" alt = "Linux" hight="600" width="600" src = "https://github.com/anik-devops11/Linux/blob/main/images/File%20type.png"> </br>
 
 **`Special files`** are again catagorized into five other file types.
