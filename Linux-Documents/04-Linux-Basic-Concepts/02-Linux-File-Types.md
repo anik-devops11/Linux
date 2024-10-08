@@ -6,7 +6,7 @@ There are three types of files.
 2. Directory
 3. Special Files
 
-<img align = "center" alt = "Linux" hight="600" width="600" src = "https://github.com/anik-devops11/Linux/blob/main/images/File%20type.png"> </br>
+<img align = "center" alt = "Linux" hight="600" width="800" src = "https://github.com/anik-devops11/Linux/blob/main/images/File%20type.png"> </br>
 
 **`Special files`** are again catagorized into five other file types.
 1. Character Files
