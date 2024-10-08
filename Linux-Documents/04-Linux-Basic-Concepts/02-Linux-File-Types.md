@@ -16,3 +16,14 @@ There are three types of files.
 5. Named Pipes
 
 <img align = "center" alt = "Linux" hight="600" width="700" src = "https://github.com/anik-devops11/Linux/blob/main/images/Special%20File%20type.png"> </br>
+
+#### Let us now see how to identify different file types in Linux.
+ 
+One way to identify a file type is by making use of the **`file`** command. 
+
+```
+$ file /home/anik
+$ flle City.txt
+```
+
+<img align = "center" alt = "Linux" src = "https://github.com/anik-devops11/Linux/blob/main/images/Picture%20screenshot.png"> </br>
